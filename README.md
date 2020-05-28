@@ -7,4 +7,4 @@
 
 ![](https://img.shields.io/github/commits-since/badges/shields)
 
-![](https://github.com/badges/shields/compare/dev...master)
+![](https://github.com/badges/shields/compare/gh-pages...master)
