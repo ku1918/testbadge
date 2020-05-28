@@ -5,6 +5,6 @@
 
 ![github-last-commit-image](https://img.shields.io/github/last-commit/commonality/getting-started-inner-source.svg?style=flat-square)
 
-![](https://img.shields.io/github/commits-since/badges/shields)
+![](https://img.shields.io/github/commits-since/badges/shields/)
 
-![](https://github.com/badges/shields/compare/gh-pages...master)
+![](https://img.shields.io/github/commits-since/badges/shields/gh-pages)
